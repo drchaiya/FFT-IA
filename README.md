@@ -1,4 +1,5 @@
-# FFT-IA
+# FFT-Inspired Attention (\text{FFT}-\text{IA}): The O(N \log N) Transformer
+Achieving Sub-Quadratic Complexity with Full Softmax Fidelity
 
 🚀 FFT-Inspired Attention (\text{FFT}-\text{IA}): The O(N \log N) Transformer
 Achieving Sub-Quadratic Complexity with Full Softmax Fidelity
