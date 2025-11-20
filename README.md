@@ -94,3 +94,11 @@ The next steps for this project involve:
 1.  **CUDA/Triton Kernel Development:** Implementing a highly optimized, fused custom kernel for the $\log_2 N$ sequential stages to achieve practical wall-clock speedup.
 2.  **Empirical Validation:** Training $\text{FFT}$-$\text{IA}$ models on standard benchmarks (e.g., NLP, vision) to validate speed and accuracy.
 3.  **Ablation Studies:** Quantifying the benefits of the structural inductive bias against baseline Transformers.
+
+## ⚖️ License & Citation
+
+This work is currently a preliminary draft made available as an open idea.
+
+**Citation:**
+> Tantisukarom, C. (2025). *FFT-Inspired Attention (FFT-IA): $\mathcal{O}(N \log N)$ Scalable Transformers*. Preliminary Draft.
+
