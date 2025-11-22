@@ -21,4 +21,4 @@ Just structural pruning inspired by the 1965 FFT.
 
 ### Install
 ```bash
-pip install git+https://github.com/drchaiya/FFT-IA-Attention-Head.git
+pip install (to be continued)
